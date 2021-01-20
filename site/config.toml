@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://notebook-of-m-b-t-n.netlify.app/"
 languageCode = "ja-jp"
 languageLang = "ja"
-title = "Homepage"
+title = "Notebook of m-b-t-n"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
