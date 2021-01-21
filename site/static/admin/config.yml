@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "About Me"
         name: "about"
         fields:
-          - {label: Title, name: title: widget: string}
+          - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
