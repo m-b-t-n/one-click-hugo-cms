@@ -1,10 +1,9 @@
 {{ define "main" }}
 
+{{ partial "jumbotron" (dict "imageUrl" "/img/home-jumbotron.jpg" "title" "Contact") }}
+
 <div class="ph3 bg-off-white">
 	<div class="center mw6 pv3">
-
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
-
 		{{ .Content }}
 
 		<div class="flex-ns mb3">
