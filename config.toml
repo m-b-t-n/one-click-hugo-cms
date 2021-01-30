@@ -3,3 +3,6 @@ languageCode = "ja-jp"
 hasCJKLanguage = true
 title = "Notebook of m-b-t-n"
 
+[taxonomies]
+    tag = "tags"
+
