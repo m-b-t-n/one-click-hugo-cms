@@ -1,2 +1,4 @@
-languageCode = "en-us"
+defaultContentLanguage = "ja"
+languageCode = "ja-jp"
+hasCJKLanguage = true
 title = "My New Netlify Victor Hugo Site"
