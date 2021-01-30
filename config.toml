@@ -6,3 +6,6 @@ title = "Notebook of m-b-t-n"
 [taxonomies]
     tag = "tags"
 
+[permalinks]
+    post = "/:section/:year/:month/:filename"
+
