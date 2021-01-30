@@ -1,2 +1,11 @@
-languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+defaultContentLanguage = "ja"
+languageCode = "ja-jp"
+hasCJKLanguage = true
+title = "Notebook of m-b-t-n"
+
+[taxonomies]
+    tag = "tags"
+
+[permalinks]
+    post = "/:section/:year/:month/:filename"
+
