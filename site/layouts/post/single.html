@@ -4,6 +4,7 @@
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
       <p>Posted at {{ .Date.Format "2006-01-02" }}</p>
+      <p>{{ .Params.Tags }}</p>
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
