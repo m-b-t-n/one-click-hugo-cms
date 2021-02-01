@@ -2,6 +2,9 @@
 title: "macOS で起動時に NAS を自動マウントする"
 date: "2020-10-25"
 description: "macOS 付属の Automator を利用して起動時に NAS を自動マウントする方法"
+tags:
+  - macOS
+  - Tips
 ---
 
 # はじめに

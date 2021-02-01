@@ -2,6 +2,8 @@
 title: "私的 SSH 鍵認証メモ"
 date: "2020-06-02"
 description: "ssh-keygen で SSH 鍵ペアを新規作成して使えるようにするまでのメモ"
+tags:
+  - Tips
 ---
 
 # はじめに

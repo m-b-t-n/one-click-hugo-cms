@@ -2,6 +2,9 @@
 title: GatsbyJS でブログの雛形をサクッと作成する
 date: "2020-05-06"
 description: "GatsbyJS と GitHub Pages を併用してサクッとブログを立ち上げてみたの巻"
+tags:
+  - GatsbyJS
+  - GitHub Pages
 ---
 
 # はじめに

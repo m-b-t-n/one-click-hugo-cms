@@ -2,6 +2,9 @@
 title: macOS で FLAC ファイルを一気に ALAC (Apple Lossless) に変換する
 date: 2021-01-30T14:04:35.920Z
 description: macOS mojave (v10.14.x) で FLAC ファイルを ALAC ファイルに一括変換する方法
+tags:
+  - macOS
+  - Tips
 ---
 # はじめに
 
