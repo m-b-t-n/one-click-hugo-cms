@@ -1,10 +1,12 @@
 {{ define "main" }}
 
+{{ partial "jumbotron" (dict "imageUrl" "/img/home-jumbotron.jpg" "title" "All Tags") }}
+
 <div class="mw6 center ph3 pv4">
 	<ul id="list">
 		{{ range $key, $value := .Data.Terms }}
 			<div class="items">
-				<a href="{{ $key | urlize }}">{{ $key }} <span class="num">{{ len $value }}</span></a>
+				<a href="/tags/{{ $key | urlize }}">{{ $key }} <span class="num">{{ len $value }}</span></a>
 			</div>
 		{{ end }}
 	</ul>

@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ partial "jumbotron" (dict "imageUrl" "/img/home-jumbotron.jpg" "title" .Title) }}
+
 <div class="mw6 center ph3 pv4">
 	<ul id="list">
 		{{ range .Data.Pages }}
