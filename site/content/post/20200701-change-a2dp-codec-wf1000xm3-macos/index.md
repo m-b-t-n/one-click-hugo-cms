@@ -2,6 +2,9 @@
 title: "WF-1000XM3 と macOS を AAC コーデックで接続する"
 date: "2020-07-01"
 description: "macOS mojave(10.14.6) において Bluetooth の A2DP コーデックを切り替える"
+tags:
+  - macOS
+  - Tips
 ---
 
 # はじめに

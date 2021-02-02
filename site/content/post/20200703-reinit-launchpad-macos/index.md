@@ -2,6 +2,9 @@
 title: "LaunchPad を初期化する"
 date: "2020-07-03"
 description: "macOS の LaunchPad を初期化する方法のメモ"
+tags:
+  - macOS
+  - Tips
 ---
 
 # はじめに

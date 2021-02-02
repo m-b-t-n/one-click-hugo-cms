@@ -2,6 +2,8 @@
 title: 'BSD 系 xargs で "xargs: unterminated quote" が出る時の対処法'
 date: 2021-01-30T14:08:41.678Z
 description: " "
+tags:
+  - Tips
 ---
 # はじめに
 

@@ -2,6 +2,8 @@
 title: "ダークモードに対応させる"
 date: "2020-06-27"
 description: "gatsby-starter-blog で作ったブログをダークモードに対応させるためのメモ"
+tags:
+  - GatsbyJS
 ---
 
 # はじめに

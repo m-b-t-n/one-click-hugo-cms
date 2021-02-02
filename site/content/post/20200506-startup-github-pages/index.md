@@ -2,6 +2,9 @@
 title: "GitHub Pages リポジトリを立ち上げる"
 date: "2020-05-06"
 description: "GitHub Pages でブログを書くための下準備"
+tags:
+  - GitHub
+  - GitHub Pages
 ---
 
 # はじめに

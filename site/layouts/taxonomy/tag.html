@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" "/img/home-jumbotron.jpg" "title" .Title) }}
+
+<div class="mw6 center ph3 pv4">
+	<ul id="list">
+		{{ range .Data.Pages }}
+		<li>
+			{{ .Date.Format "2006-01-02" }}
+			<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+		</li>
+		{{ end }}
+	</ul>
+</div>
+
+{{ end }}
+
