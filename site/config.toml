@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "ja-jp"
 languageLang = "ja"
+hasCJKLanguage = "true"
 title = "Notebook of m-b-t-n"
 
 # RSS, categories and tags disabled for an easy start
